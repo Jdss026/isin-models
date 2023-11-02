@@ -1,3 +1,9 @@
 /CHOCOLATE/modelos/melhor_modelo.pt
 /isin-data/
 /notebooks/modelos/
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
